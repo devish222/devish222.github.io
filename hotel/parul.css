@@ -1,0 +1,21 @@
+body{
+   
+   background-image: url("taj.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+h1{
+	font-family: "Imprint MT Shadow", Times, serif;
+	font-weight: bold;
+	font-size: 50;
+    color: gold;
+}
+
+lable {
+	font-family: "Century", Times, serif;
+	font-weight: bold;
+    color: lovender;
+    
+}
